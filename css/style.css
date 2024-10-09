@@ -1,3 +1,21 @@
 body {
-    background-color: aliceblue;
+    background-color: rgb(29, 45, 60);
+}
+
+header {
+    background-color: rgb(5, 19, 30);
+}
+
+.nav-spotify {
+    height: 90px;
+}
+
+.icon-spotify {
+    color: green;
+    font-size: 70px;
+}
+
+.music-card {
+    background-color: rgb(15, 32, 47);
+    color: white;
 }
